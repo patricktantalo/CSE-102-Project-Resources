@@ -26,6 +26,6 @@ then run it by typing:
 Check input_file output_file
 ```
 
-If output_file is valid for input_file, there will be no ouput. If output_file is invalid for input_file, an error message will be printed giving at least one reason for the mismatch. It is not guaranteed that all errors in output_file will be reported.
+If output_file is valid for input_file, nothing will be printed. If output_file is invalid for input_file, then a message will be printed giving at least one reason for the mismatch. It is not guaranteed that all errors in output_file will be reported.
 
 Observe that file in4 represents a connected graph with 6 different minimum weight spanning trees, represented by files out4.1 through out4.6. 
