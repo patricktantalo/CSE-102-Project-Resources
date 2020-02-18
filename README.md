@@ -15,7 +15,12 @@
 
 
 ### Notes
-To run Check do:
+Make Check excutable by typing at the command prompt $: 
+
+```sh
+$ chmod 700 Check
+```
+then run it by typing:
 
 ```sh
 $ Check input_file output_file
