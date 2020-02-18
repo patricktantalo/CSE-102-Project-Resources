@@ -15,15 +15,15 @@
 
 
 ### Notes
-Make Check excutable by typing at the command prompt $: 
+Make Check excutable by typing at the command prompt: 
 
 ```sh
-$ chmod 700 Check
+chmod 700 Check
 ```
 then run it by typing:
 
 ```sh
-$ Check input_file output_file
+Check input_file output_file
 ```
 
 If output_file is valid for input_file, there will be no ouput. If output_file is invalid for input_file, an error message will be printed giving at least one reason for the mismatch. It is not guaranteed that all errors in output_file will be reported.
