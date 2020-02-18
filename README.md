@@ -15,7 +15,7 @@
 
 
 ### Notes
-Make Check excutable by typing at the command prompt: 
+Check is a Linux binary executable file. Make it excutable by typing at the command prompt: 
 
 ```sh
 chmod 700 Check
