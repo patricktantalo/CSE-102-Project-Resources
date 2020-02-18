@@ -11,6 +11,7 @@
 - out2 - output file corresponding to in2
 - out3 - output file corresponding to in3
 - out4.1, out4.2, out4.3, out4.4, out4.5, out4.6 - output files all corresponding to in4
+- README.md - this file
 
 
 ### Notes
